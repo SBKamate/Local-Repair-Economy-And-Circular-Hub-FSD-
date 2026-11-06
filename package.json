@@ -1,0 +1,14 @@
+{
+  "name": "fixnear",
+  "version": "1.0.0",
+  "description": "FixNear – Local Repair Economy and Circular Hub",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "test": "cd backend && npm test",
+    "qa": "cd backend && npm run qa"
+  },
+  "keywords": ["fixnear", "circular-economy", "mern", "repair"],
+  "author": "FixNear Team",
+  "license": "ISC"
+}
